@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data powinny być śledzone, ale pliki cache już nie
+sysinfo.txt
+
+# Autogenerowane pliki Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Inne katalogi cache i paczki
+[Pp]ackages/com.unity.package-manager/
+[Pp]ackages/com.unity.collab-proxy/
+
