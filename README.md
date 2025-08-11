@@ -3,20 +3,20 @@
 Gra typu 2D Platformer stworzona w silniku **Unity**.
 
 ---
+Plik `.mp4` pokazuje przykładowy gameplay wczesnej wersji poziomu `Level1`.
 
 ## Wymagania
 
 - **Unity** w wersji `2022.3 LTS` (lub wyższej, kompatybilnej z projektem)
-- System operacyjny: Windows / macOS / Linux
-- Opcjonalnie: Visual Studio 2022 (z zainstalowanym modułem „Game development with Unity”) lub Rider
+- System operacyjny: Windows 10
+- Visual Studio 2022
 
 > Jeśli nie masz pewności co do wersji Unity, sprawdź plik  
 > `ProjectSettings/ProjectVersion.txt` – znajdziesz tam dokładny numer.
 
 ---
 
-## Jak uruchomić projekt
-
+## Uruchamianie projektu
 1. **Pobierz repozytorium**:
    - Git:
      ```bash
@@ -34,3 +34,5 @@ Gra typu 2D Platformer stworzona w silniku **Unity**.
 4. **Uruchom scenę startową**:
    - W folderze `Assets/Scenes` znajdź plik głównej sceny gry `Level1`.
    - Otwórz go i kliknij **Play** na górze interfejsu **Unity**.
+## Informacje dodatkowe
+*Gra w obecnej wersji zawiera więcej funkcjonalności, m. in. system przeciwników, dodatkowych tokenów oraz ruchome elementy planszy, aczkolwiek część z nich nie została w pełni zaimplementowana i mogą nie działać prawidłowo.*
